@@ -17,7 +17,7 @@
     "pify": "^3.0.0",
     "plist": "^2.0.1",
     "ps-node": "^0.1.4",
-    "request": "^2.72.0",
+    "request": "^2.88.2",
     "rimraf": "^2.5.4",
     "shelljs": "^0.7.4",
     "superspawn": "^0.1.0",
